@@ -5,6 +5,6 @@ public class Sevgi3 {
 		// TODO Auto-generated method stub
 
 		System.out.println("Eclipse çalýþmasýný github'a gönderme.");
-		
+		System.out.println("Eclipse çalýþmasýný github'a gönderme baþarýyla tamamlandý.");
 }
 }
