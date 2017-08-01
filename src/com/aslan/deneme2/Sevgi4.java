@@ -5,7 +5,8 @@ public class Sevgi4 {
 		// TODO Auto-generated method stub
 
 		System.out.println("Deðiþiklik yapma alýþtýrmasý yapýyorum.");
-		
+		System.out.println("Galiba öðrendim bu iþi:)");
+
 }
 
 }
